@@ -1,0 +1,11 @@
+# Prerequisites
+Python 3.8+
+pip install pillow numpy pandas opencv-python tqdm
+ ## Libraries Used
+Pillow — Image loading and basic manipulation
+OpenCV — Advanced image processing (optional)
+NumPy — Array representation and storage
+tqdm — Progress visualization
+pandas — Structured CSV/JSON output
+torchvision or tensorflow.keras (optional for feature extraction)
+
